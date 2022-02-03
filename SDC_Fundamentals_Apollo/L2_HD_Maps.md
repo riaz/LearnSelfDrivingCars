@@ -17,4 +17,6 @@ https://github.com/ApolloAuto/apollo/tree/master/modules/map
 
 Apollo uses OpenDrive format [industry wide mapping standard]
 
-Applo relies on crowd-sourcing HD maps gene
+Applo relies on crowd-sourcing HD maps generation.
+
+
