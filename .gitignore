@@ -12,6 +12,7 @@ build/
 develop-eggs/
 dist/
 downloads/
+Basics/Keras/data
 eggs/
 .eggs/
 lib/
@@ -25,6 +26,8 @@ share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+*.h5 # model stuff
+.h5
 MANIFEST
 
 # PyInstaller
