@@ -13,6 +13,8 @@ develop-eggs/
 dist/
 downloads/
 Basics/Keras/data
+Basics/Keras/save_at_1.h5
+Basics/Keras/save_at_2.h5
 eggs/
 .eggs/
 lib/
